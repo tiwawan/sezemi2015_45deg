@@ -1,3 +1,3 @@
 # tiwawan
   * University student
-  * Department of information engineering
+  * Department of Computer Science
