@@ -1,3 +1,3 @@
 # tiwawan
   * University student
-  * Department of imfomation Science
+  * Department of imfomation enginering
